@@ -4,9 +4,7 @@ Segunda parte da N1 do Primeiro Bimestre de **Segurança da Informação**
 
 
 Integrantes:  Maicon Dias - 082210032
-              
               Pedro Henrike - 082210025
-              
               Thiago Guedes - 082210010
 
 ---
